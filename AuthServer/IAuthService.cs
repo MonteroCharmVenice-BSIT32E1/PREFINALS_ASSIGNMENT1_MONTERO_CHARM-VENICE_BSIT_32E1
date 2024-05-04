@@ -1,6 +1,8 @@
 ﻿namespace AuthServer
 {
-    public class IAuthService
+    public interface IAuthService
     {
+        Task<string> GenerateJwtTokenAsync(User user);
+       
     }
 }

@@ -1,4 +1,5 @@
 ﻿using Microsoft.AspNetCore.Authentication.JwtBearer;
+using Microsoft.AspNetCore.DataProtection.KeyManagement;
 using Microsoft.IdentityModel.Tokens;
 using System.Text;
 
@@ -6,7 +7,12 @@ namespace ProtectedApi
 {
     public class Startup
     {
-        // Other configurations...
+        public IConfiguration Configuration { get; }
+
+        public Startup(IConfiguration configuration)
+        {
+            Configuration = configuration;
+        }
 
         public void ConfigureServices(IServiceCollection services)
         {
@@ -22,7 +28,7 @@ namespace ProtectedApi
                         ValidateIssuerSigningKey = true,
                         ValidIssuer = Configuration["JwtSettings:Issuer"],
                         ValidAudience = Configuration["JwtSettings:Audience"],
-                        IssuerSigningKey = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(Secret.JwtSigningKey))
+                        IssuerSigningKey = new SymmetricSecurityKey(Key)
                     };
                 });
 

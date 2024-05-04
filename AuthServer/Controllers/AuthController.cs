@@ -4,7 +4,6 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace AuthServer.Controllers
 {
-    
     [ApiController]
     [Route("api/[controller]")]
     public class AuthController : ControllerBase
@@ -37,7 +36,7 @@ namespace AuthServer.Controllers
             if (user == null)
                 return NotFound("User not found");
 
-            // Check password hash or any other authentication mechanism
+          
             if (loginRequest.Password != "your_password_validation_logic_here")
                 return Unauthorized("Invalid credentials");
 

@@ -38,14 +38,17 @@ namespace ProtectedApi
                 });
         }
 
-        public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
+        public void Configure(IApplicationBuilder app)
         {
-            // Other configurations...
+            app.UseRouting();
 
             app.UseAuthentication();
             app.UseAuthorization();
 
-            // Other configurations...
+            app.UseEndpoints(endpoints =>
+            {
+                endpoints.MapControllers();
+            });
         }
     }
 }

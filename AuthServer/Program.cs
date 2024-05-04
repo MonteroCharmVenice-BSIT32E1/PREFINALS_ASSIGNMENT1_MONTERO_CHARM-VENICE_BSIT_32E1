@@ -11,7 +11,7 @@ builder.Services.AddSwaggerGen();
 // Add JWT settings configuration
 builder.Services.Configure<JwtSettings>(builder.Configuration.GetSection("JwtSettings"));
 
-// Add the services required for controllers
+//required for controllers
 builder.Services.AddControllers();
 
 // Configure authentication

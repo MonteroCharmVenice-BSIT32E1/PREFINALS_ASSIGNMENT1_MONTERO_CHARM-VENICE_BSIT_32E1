@@ -1,59 +1,50 @@
-﻿using Microsoft.AspNetCore.Authorization;
-using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Mvc;
+using System;
 
-namespace ProtectedApi.Controller
+namespace ProtectedApi
+{
+    [ApiController]
+    [Route("[controller]")]
+    public class ValueController : ControllerBase
     {
-        [Authorize]
-        [ApiController]
-        [Route("api/[controller]")]
-        public class ValuesController : ControllerBase
+        private readonly string _owner = "Montero Charm Venice";
+        private readonly Random _random = new Random();
+        private readonly string[] _thingsAboutOwner = new[]
         {
-            private readonly string _ownerName = "Montero Charm Venice"; 
+            "I love cats",
+ "I do love painting",
+ "I play badmninton",
+ "I love watching anime",
+ "One Piece is my number 1 favorite anime",
+ "I have 10 cats",
+ "I do play online games like codm, ml, farlight",
+ "I love watching horror movies",
+ "I'm 20 y/o",
+ "Currently taking BSIT",
+        };
 
-            [HttpGet("about/me")]
-            public IActionResult GetAboutMe()
-            {
-                var random = new Random();
-                var funFacts = new List<string>
-            {
-                "I love cats",
-                "I do love painting",
-                "I play badmninton",
-                "I love watching anime",
-                "One Piece is my number 1 favorite anime",
-                "I have 10 cats",
-                "I do play online games like codm, ml, farlight",
-                "I love watching horror movies",
-                "I'm 20 y/o",
-                "Currently taking BSIT",
-                // Add more fun facts here
-            };
-
-                // Randomly select a fun fact
-                var randomFunFact = funFacts[random.Next(funFacts.Count)];
-
-                return Ok(new { FunFact = randomFunFact });
-            }
-
-            [HttpGet("about")]
-            public IActionResult GetOwnerName()
-            {
-                return Ok(new { Name = _ownerName });
-            }
-
-            [HttpPost("about")]
-            public IActionResult PostName([FromBody] NameRequest nameRequest)
-            {
-                if (string.IsNullOrWhiteSpace(nameRequest?.Name))
-                    return BadRequest("Name cannot be empty");
-
-                var greeting = $"Hi {nameRequest.Name} from {_ownerName}";
-                return Ok(new { Greeting = greeting });
-            }
+        [HttpGet("about/me")]
+        public IActionResult AboutMe()
+        {
+            var thing = _thingsAboutOwner[_random.Next(_thingsAboutOwner.Length)];
+            return Ok(thing);
         }
 
-        public class NameRequest
+        [HttpGet("about")]
+        public IActionResult About()
         {
-            public string Name { get; set; }
+            return Ok(_owner);
+        }
+
+        [HttpPost("about")]
+        public IActionResult About([FromBody] NameModel model)
+        {
+            return Ok($"Hi {model.Name} from {_owner}");
         }
     }
+
+    public class NameModel
+    {
+        public string? Name { get; set; }
+    }
+}

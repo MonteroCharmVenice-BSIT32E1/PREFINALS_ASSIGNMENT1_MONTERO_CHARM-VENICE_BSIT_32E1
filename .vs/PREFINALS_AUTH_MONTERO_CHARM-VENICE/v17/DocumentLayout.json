@@ -3,44 +3,48 @@
   "WorkspaceRootPath": "C:\\Users\\Moyla\\Documents\\GitHub\\PREFINALS_ASSIGNMENT1_MONTERO_CHARM-VENICE_BSIT_32E1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D78A8F65-313C-4BCB-9367-C30D04977AB8}|AuthServer\\AuthServer.csproj|c:\\users\\moyla\\documents\\github\\prefinals_assignment1_montero_charm-venice_bsit_32e1\\authserver\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D78A8F65-313C-4BCB-9367-C30D04977AB8}|AuthServer\\AuthServer.csproj|solutionrelative:authserver\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{60257D37-4E50-4BEA-AAA1-54A91A1EC902}|ProtectedApi\\ProtectedApi.csproj|c:\\users\\moyla\\documents\\github\\prefinals_assignment1_montero_charm-venice_bsit_32e1\\protectedapi\\controller\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60257D37-4E50-4BEA-AAA1-54A91A1EC902}|ProtectedApi\\ProtectedApi.csproj|solutionrelative:protectedapi\\controller\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D78A8F65-313C-4BCB-9367-C30D04977AB8}|AuthServer\\AuthServer.csproj|c:\\users\\moyla\\documents\\github\\prefinals_assignment1_montero_charm-venice_bsit_32e1\\authserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D78A8F65-313C-4BCB-9367-C30D04977AB8}|AuthServer\\AuthServer.csproj|solutionrelative:authserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D78A8F65-313C-4BCB-9367-C30D04977AB8}|AuthServer\\AuthServer.csproj|c:\\users\\moyla\\documents\\github\\prefinals_assignment1_montero_charm-venice_bsit_32e1\\authserver\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D78A8F65-313C-4BCB-9367-C30D04977AB8}|AuthServer\\AuthServer.csproj|solutionrelative:authserver\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D78A8F65-313C-4BCB-9367-C30D04977AB8}|AuthServer\\AuthServer.csproj|c:\\users\\moyla\\documents\\github\\prefinals_assignment1_montero_charm-venice_bsit_32e1\\authserver\\core\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D78A8F65-313C-4BCB-9367-C30D04977AB8}|AuthServer\\AuthServer.csproj|solutionrelative:authserver\\core\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D78A8F65-313C-4BCB-9367-C30D04977AB8}|AuthServer\\AuthServer.csproj|c:\\users\\moyla\\documents\\github\\prefinals_assignment1_montero_charm-venice_bsit_32e1\\authserver\\core\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D78A8F65-313C-4BCB-9367-C30D04977AB8}|AuthServer\\AuthServer.csproj|solutionrelative:authserver\\core\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D78A8F65-313C-4BCB-9367-C30D04977AB8}|AuthServer\\AuthServer.csproj|c:\\users\\moyla\\documents\\github\\prefinals_assignment1_montero_charm-venice_bsit_32e1\\authserver\\core\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D78A8F65-313C-4BCB-9367-C30D04977AB8}|AuthServer\\AuthServer.csproj|solutionrelative:authserver\\core\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D78A8F65-313C-4BCB-9367-C30D04977AB8}|AuthServer\\AuthServer.csproj|c:\\users\\moyla\\documents\\github\\prefinals_assignment1_montero_charm-venice_bsit_32e1\\authserver\\models\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D78A8F65-313C-4BCB-9367-C30D04977AB8}|AuthServer\\AuthServer.csproj|solutionrelative:authserver\\models\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D78A8F65-313C-4BCB-9367-C30D04977AB8}|AuthServer\\AuthServer.csproj|c:\\users\\moyla\\documents\\github\\prefinals_assignment1_montero_charm-venice_bsit_32e1\\authserver\\authserver.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{D78A8F65-313C-4BCB-9367-C30D04977AB8}|AuthServer\\AuthServer.csproj|solutionrelative:authserver\\authserver.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{60257D37-4E50-4BEA-AAA1-54A91A1EC902}|ProtectedApi\\ProtectedApi.csproj|c:\\users\\moyla\\documents\\github\\prefinals_assignment1_montero_charm-venice_bsit_32e1\\protectedapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{60257D37-4E50-4BEA-AAA1-54A91A1EC902}|ProtectedApi\\ProtectedApi.csproj|solutionrelative:protectedapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D78A8F65-313C-4BCB-9367-C30D04977AB8}|AuthServer\\AuthServer.csproj|c:\\users\\moyla\\documents\\github\\prefinals_assignment1_montero_charm-venice_bsit_32e1\\authserver\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{D78A8F65-313C-4BCB-9367-C30D04977AB8}|AuthServer\\AuthServer.csproj|solutionrelative:authserver\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{60257D37-4E50-4BEA-AAA1-54A91A1EC902}|ProtectedApi\\ProtectedApi.csproj|c:\\users\\moyla\\documents\\github\\prefinals_assignment1_montero_charm-venice_bsit_32e1\\protectedapi\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60257D37-4E50-4BEA-AAA1-54A91A1EC902}|ProtectedApi\\ProtectedApi.csproj|solutionrelative:protectedapi\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60257D37-4E50-4BEA-AAA1-54A91A1EC902}|ProtectedApi\\ProtectedApi.csproj|c:\\users\\moyla\\documents\\github\\prefinals_assignment1_montero_charm-venice_bsit_32e1\\protectedapi\\protectedapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{60257D37-4E50-4BEA-AAA1-54A91A1EC902}|ProtectedApi\\ProtectedApi.csproj|solutionrelative:protectedapi\\protectedapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D78A8F65-313C-4BCB-9367-C30D04977AB8}|AuthServer\\AuthServer.csproj|c:\\users\\moyla\\documents\\github\\prefinals_assignment1_montero_charm-venice_bsit_32e1\\authserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D78A8F65-313C-4BCB-9367-C30D04977AB8}|AuthServer\\AuthServer.csproj|solutionrelative:authserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D78A8F65-313C-4BCB-9367-C30D04977AB8}|AuthServer\\AuthServer.csproj|c:\\users\\moyla\\documents\\github\\prefinals_assignment1_montero_charm-venice_bsit_32e1\\authserver\\secret.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D78A8F65-313C-4BCB-9367-C30D04977AB8}|AuthServer\\AuthServer.csproj|solutionrelative:authserver\\secret.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D78A8F65-313C-4BCB-9367-C30D04977AB8}|AuthServer\\AuthServer.csproj|c:\\users\\moyla\\documents\\github\\prefinals_assignment1_montero_charm-venice_bsit_32e1\\authserver\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D78A8F65-313C-4BCB-9367-C30D04977AB8}|AuthServer\\AuthServer.csproj|solutionrelative:authserver\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60257D37-4E50-4BEA-AAA1-54A91A1EC902}|ProtectedApi\\ProtectedApi.csproj|c:\\users\\moyla\\documents\\github\\prefinals_assignment1_montero_charm-venice_bsit_32e1\\protectedapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60257D37-4E50-4BEA-AAA1-54A91A1EC902}|ProtectedApi\\ProtectedApi.csproj|solutionrelative:protectedapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D78A8F65-313C-4BCB-9367-C30D04977AB8}|AuthServer\\AuthServer.csproj|c:\\users\\moyla\\documents\\github\\prefinals_assignment1_montero_charm-venice_bsit_32e1\\authserver\\authserver.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D78A8F65-313C-4BCB-9367-C30D04977AB8}|AuthServer\\AuthServer.csproj|solutionrelative:authserver\\authserver.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D78A8F65-313C-4BCB-9367-C30D04977AB8}|AuthServer\\AuthServer.csproj|c:\\users\\moyla\\documents\\github\\prefinals_assignment1_montero_charm-venice_bsit_32e1\\authserver\\core\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D78A8F65-313C-4BCB-9367-C30D04977AB8}|AuthServer\\AuthServer.csproj|solutionrelative:authserver\\core\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,7 +54,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Bookmark",
@@ -74,124 +78,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "JwtSettings.cs",
-              "DocumentMoniker": "C:\\Users\\Moyla\\Documents\\GitHub\\PREFINALS_ASSIGNMENT1_MONTERO_CHARM-VENICE_BSIT_32E1\\AuthServer\\JwtSettings.cs",
-              "RelativeDocumentMoniker": "AuthServer\\JwtSettings.cs",
-              "ToolTip": "C:\\Users\\Moyla\\Documents\\GitHub\\PREFINALS_ASSIGNMENT1_MONTERO_CHARM-VENICE_BSIT_32E1\\AuthServer\\JwtSettings.cs",
-              "RelativeToolTip": "AuthServer\\JwtSettings.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-04T15:38:53.985Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "AuthController.cs",
-              "DocumentMoniker": "C:\\Users\\Moyla\\Documents\\GitHub\\PREFINALS_ASSIGNMENT1_MONTERO_CHARM-VENICE_BSIT_32E1\\AuthServer\\Controllers\\AuthController.cs",
-              "RelativeDocumentMoniker": "AuthServer\\Controllers\\AuthController.cs",
-              "ToolTip": "C:\\Users\\Moyla\\Documents\\GitHub\\PREFINALS_ASSIGNMENT1_MONTERO_CHARM-VENICE_BSIT_32E1\\AuthServer\\Controllers\\AuthController.cs",
-              "RelativeToolTip": "AuthServer\\Controllers\\AuthController.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAA0wAYAAAATAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-04T15:05:13.077Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "LoginRequest.cs",
-              "DocumentMoniker": "C:\\Users\\Moyla\\Documents\\GitHub\\PREFINALS_ASSIGNMENT1_MONTERO_CHARM-VENICE_BSIT_32E1\\AuthServer\\Models\\LoginRequest.cs",
-              "RelativeDocumentMoniker": "AuthServer\\Models\\LoginRequest.cs",
-              "ToolTip": "C:\\Users\\Moyla\\Documents\\GitHub\\PREFINALS_ASSIGNMENT1_MONTERO_CHARM-VENICE_BSIT_32E1\\AuthServer\\Models\\LoginRequest.cs",
-              "RelativeToolTip": "AuthServer\\Models\\LoginRequest.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-04T15:09:58.422Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Moyla\\Documents\\GitHub\\PREFINALS_ASSIGNMENT1_MONTERO_CHARM-VENICE_BSIT_32E1\\AuthServer\\Program.cs",
-              "RelativeDocumentMoniker": "AuthServer\\Program.cs",
-              "ToolTip": "C:\\Users\\Moyla\\Documents\\GitHub\\PREFINALS_ASSIGNMENT1_MONTERO_CHARM-VENICE_BSIT_32E1\\AuthServer\\Program.cs",
-              "RelativeToolTip": "AuthServer\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAArAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-04T14:45:12.098Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "IAuthService.cs",
-              "DocumentMoniker": "C:\\Users\\Moyla\\Documents\\GitHub\\PREFINALS_ASSIGNMENT1_MONTERO_CHARM-VENICE_BSIT_32E1\\AuthServer\\Core\\IAuthService.cs",
-              "RelativeDocumentMoniker": "AuthServer\\Core\\IAuthService.cs",
-              "ToolTip": "C:\\Users\\Moyla\\Documents\\GitHub\\PREFINALS_ASSIGNMENT1_MONTERO_CHARM-VENICE_BSIT_32E1\\AuthServer\\Core\\IAuthService.cs",
-              "RelativeToolTip": "AuthServer\\Core\\IAuthService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-04T14:10:03.455Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "IUserService.cs",
-              "DocumentMoniker": "C:\\Users\\Moyla\\Documents\\GitHub\\PREFINALS_ASSIGNMENT1_MONTERO_CHARM-VENICE_BSIT_32E1\\AuthServer\\Core\\IUserService.cs",
-              "RelativeDocumentMoniker": "AuthServer\\Core\\IUserService.cs",
-              "ToolTip": "C:\\Users\\Moyla\\Documents\\GitHub\\PREFINALS_ASSIGNMENT1_MONTERO_CHARM-VENICE_BSIT_32E1\\AuthServer\\Core\\IUserService.cs",
-              "RelativeToolTip": "AuthServer\\Core\\IUserService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-04T14:09:41.195Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\Moyla\\Documents\\GitHub\\PREFINALS_ASSIGNMENT1_MONTERO_CHARM-VENICE_BSIT_32E1\\AuthServer\\Core\\User.cs",
-              "RelativeDocumentMoniker": "AuthServer\\Core\\User.cs",
-              "ToolTip": "C:\\Users\\Moyla\\Documents\\GitHub\\PREFINALS_ASSIGNMENT1_MONTERO_CHARM-VENICE_BSIT_32E1\\AuthServer\\Core\\User.cs",
-              "RelativeToolTip": "AuthServer\\Core\\User.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-04T14:08:47.06Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Moyla\\Documents\\GitHub\\PREFINALS_ASSIGNMENT1_MONTERO_CHARM-VENICE_BSIT_32E1\\AuthServer\\appsettings.json",
-              "RelativeDocumentMoniker": "AuthServer\\appsettings.json",
-              "ToolTip": "C:\\Users\\Moyla\\Documents\\GitHub\\PREFINALS_ASSIGNMENT1_MONTERO_CHARM-VENICE_BSIT_32E1\\AuthServer\\appsettings.json",
-              "RelativeToolTip": "AuthServer\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
+              "DocumentMoniker": "C:\\Users\\Moyla\\Documents\\GitHub\\PREFINALS_ASSIGNMENT1_MONTERO_CHARM-VENICE_BSIT_32E1\\ProtectedApi\\appsettings.json",
+              "RelativeDocumentMoniker": "ProtectedApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\Moyla\\Documents\\GitHub\\PREFINALS_ASSIGNMENT1_MONTERO_CHARM-VENICE_BSIT_32E1\\ProtectedApi\\appsettings.json",
+              "RelativeToolTip": "ProtectedApi\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-05-04T02:11:56.029Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Secret.cs",
-              "DocumentMoniker": "C:\\Users\\Moyla\\Documents\\GitHub\\PREFINALS_ASSIGNMENT1_MONTERO_CHARM-VENICE_BSIT_32E1\\AuthServer\\Secret.cs",
-              "RelativeDocumentMoniker": "AuthServer\\Secret.cs",
-              "ToolTip": "C:\\Users\\Moyla\\Documents\\GitHub\\PREFINALS_ASSIGNMENT1_MONTERO_CHARM-VENICE_BSIT_32E1\\AuthServer\\Secret.cs",
-              "RelativeToolTip": "AuthServer\\Secret.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAABZAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-04T02:02:40.761Z",
+              "WhenOpened": "2024-05-04T17:12:13.979Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
+              "Title": "JwtSettings.cs",
+              "DocumentMoniker": "C:\\Users\\Moyla\\Documents\\GitHub\\PREFINALS_ASSIGNMENT1_MONTERO_CHARM-VENICE_BSIT_32E1\\AuthServer\\JwtSettings.cs",
+              "RelativeDocumentMoniker": "AuthServer\\JwtSettings.cs",
+              "ToolTip": "C:\\Users\\Moyla\\Documents\\GitHub\\PREFINALS_ASSIGNMENT1_MONTERO_CHARM-VENICE_BSIT_32E1\\AuthServer\\JwtSettings.cs",
+              "RelativeToolTip": "AuthServer\\JwtSettings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T17:09:23.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "AuthServer",
               "DocumentMoniker": "C:\\Users\\Moyla\\Documents\\GitHub\\PREFINALS_ASSIGNMENT1_MONTERO_CHARM-VENICE_BSIT_32E1\\AuthServer\\AuthServer.csproj",
               "RelativeDocumentMoniker": "AuthServer\\AuthServer.csproj",
@@ -199,7 +112,111 @@
               "RelativeToolTip": "AuthServer\\AuthServer.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-05-04T01:38:05.322Z",
+              "WhenOpened": "2024-05-04T17:00:34.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Moyla\\Documents\\GitHub\\PREFINALS_ASSIGNMENT1_MONTERO_CHARM-VENICE_BSIT_32E1\\AuthServer\\appsettings.json",
+              "RelativeDocumentMoniker": "AuthServer\\appsettings.json",
+              "ToolTip": "C:\\Users\\Moyla\\Documents\\GitHub\\PREFINALS_ASSIGNMENT1_MONTERO_CHARM-VENICE_BSIT_32E1\\AuthServer\\appsettings.json",
+              "RelativeToolTip": "AuthServer\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-04T16:55:22.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Moyla\\Documents\\GitHub\\PREFINALS_ASSIGNMENT1_MONTERO_CHARM-VENICE_BSIT_32E1\\AuthServer\\Program.cs",
+              "RelativeDocumentMoniker": "AuthServer\\Program.cs",
+              "ToolTip": "C:\\Users\\Moyla\\Documents\\GitHub\\PREFINALS_ASSIGNMENT1_MONTERO_CHARM-VENICE_BSIT_32E1\\AuthServer\\Program.cs",
+              "RelativeToolTip": "AuthServer\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA0AAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T16:49:45.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ValuesController.cs",
+              "DocumentMoniker": "C:\\Users\\Moyla\\Documents\\GitHub\\PREFINALS_ASSIGNMENT1_MONTERO_CHARM-VENICE_BSIT_32E1\\ProtectedApi\\Controller\\ValuesController.cs",
+              "RelativeDocumentMoniker": "ProtectedApi\\Controller\\ValuesController.cs",
+              "ToolTip": "C:\\Users\\Moyla\\Documents\\GitHub\\PREFINALS_ASSIGNMENT1_MONTERO_CHARM-VENICE_BSIT_32E1\\ProtectedApi\\Controller\\ValuesController.cs",
+              "RelativeToolTip": "ProtectedApi\\Controller\\ValuesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T16:28:19.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Moyla\\Documents\\GitHub\\PREFINALS_ASSIGNMENT1_MONTERO_CHARM-VENICE_BSIT_32E1\\AuthServer\\Core\\User.cs",
+              "RelativeDocumentMoniker": "AuthServer\\Core\\User.cs",
+              "ToolTip": "C:\\Users\\Moyla\\Documents\\GitHub\\PREFINALS_ASSIGNMENT1_MONTERO_CHARM-VENICE_BSIT_32E1\\AuthServer\\Core\\User.cs",
+              "RelativeToolTip": "AuthServer\\Core\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T16:25:45.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Moyla\\Documents\\GitHub\\PREFINALS_ASSIGNMENT1_MONTERO_CHARM-VENICE_BSIT_32E1\\ProtectedApi\\Program.cs",
+              "RelativeDocumentMoniker": "ProtectedApi\\Program.cs",
+              "ToolTip": "C:\\Users\\Moyla\\Documents\\GitHub\\PREFINALS_ASSIGNMENT1_MONTERO_CHARM-VENICE_BSIT_32E1\\ProtectedApi\\Program.cs",
+              "RelativeToolTip": "ProtectedApi\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T16:23:31.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Secret.cs",
+              "DocumentMoniker": "C:\\Users\\Moyla\\Documents\\GitHub\\PREFINALS_ASSIGNMENT1_MONTERO_CHARM-VENICE_BSIT_32E1\\AuthServer\\Secret.cs",
+              "RelativeDocumentMoniker": "AuthServer\\Secret.cs",
+              "ToolTip": "C:\\Users\\Moyla\\Documents\\GitHub\\PREFINALS_ASSIGNMENT1_MONTERO_CHARM-VENICE_BSIT_32E1\\AuthServer\\Secret.cs",
+              "RelativeToolTip": "AuthServer\\Secret.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T16:19:09.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\Moyla\\Documents\\GitHub\\PREFINALS_ASSIGNMENT1_MONTERO_CHARM-VENICE_BSIT_32E1\\ProtectedApi\\Startup.cs",
+              "RelativeDocumentMoniker": "ProtectedApi\\Startup.cs",
+              "ToolTip": "C:\\Users\\Moyla\\Documents\\GitHub\\PREFINALS_ASSIGNMENT1_MONTERO_CHARM-VENICE_BSIT_32E1\\ProtectedApi\\Startup.cs",
+              "RelativeToolTip": "ProtectedApi\\Startup.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T16:12:02.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProtectedApi",
+              "DocumentMoniker": "C:\\Users\\Moyla\\Documents\\GitHub\\PREFINALS_ASSIGNMENT1_MONTERO_CHARM-VENICE_BSIT_32E1\\ProtectedApi\\ProtectedApi.csproj",
+              "RelativeDocumentMoniker": "ProtectedApi\\ProtectedApi.csproj",
+              "ToolTip": "C:\\Users\\Moyla\\Documents\\GitHub\\PREFINALS_ASSIGNMENT1_MONTERO_CHARM-VENICE_BSIT_32E1\\ProtectedApi\\ProtectedApi.csproj",
+              "RelativeToolTip": "ProtectedApi\\ProtectedApi.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-04T16:08:21.152Z",
               "EditorCaption": ""
             }
           ]

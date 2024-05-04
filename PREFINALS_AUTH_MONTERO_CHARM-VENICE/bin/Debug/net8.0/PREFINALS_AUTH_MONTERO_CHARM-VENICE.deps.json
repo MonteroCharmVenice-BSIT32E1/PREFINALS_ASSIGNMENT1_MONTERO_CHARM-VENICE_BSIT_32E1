@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "PREFINALS_AUTH_MONTERO_CHARM-VENICE/1.0.0": {
+        "runtime": {
+          "PREFINALS_AUTH_MONTERO_CHARM-VENICE.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PREFINALS_AUTH_MONTERO_CHARM-VENICE/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

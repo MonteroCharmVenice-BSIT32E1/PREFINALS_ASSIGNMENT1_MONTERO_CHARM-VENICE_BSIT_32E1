@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PREFINALS_AUTH_MONTERO_CHARM-VENICE")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a953fe0687bff7b5e4dd866361df39b7f3a3773c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3780db1a1026c4025adaf8f9f0b4931374021445")]
 [assembly: System.Reflection.AssemblyProductAttribute("PREFINALS_AUTH_MONTERO_CHARM-VENICE")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PREFINALS_AUTH_MONTERO_CHARM-VENICE")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

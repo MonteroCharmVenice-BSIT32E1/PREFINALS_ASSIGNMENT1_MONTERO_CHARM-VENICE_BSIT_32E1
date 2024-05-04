@@ -17,7 +17,11 @@ namespace ProtectedApi
 
         public void ConfigureServices(IServiceCollection services)
         {
-            // Add JWT authentication
+            services.AddControllers();
+
+            var jwtSettings = Configuration.GetSection("JwtSettings");
+            var key = Encoding.ASCII.GetBytes(jwtSettings.GetValue<string>("JwtSigningKey"));
+
             services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme)
                 .AddJwtBearer(options =>
                 {
@@ -27,13 +31,11 @@ namespace ProtectedApi
                         ValidateAudience = true,
                         ValidateLifetime = true,
                         ValidateIssuerSigningKey = true,
-                        ValidIssuer = Configuration["JwtSettings:Issuer"],
-                        ValidAudience = Configuration["JwtSettings:Audience"],
-                        IssuerSigningKey = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(Secret.Key))
+                        ValidIssuer = jwtSettings.GetValue<string>("Issuer"),
+                        ValidAudience = jwtSettings.GetValue<string>("Audience"),
+                        IssuerSigningKey = new SymmetricSecurityKey(key)
                     };
                 });
-
-            // Other configurations...
         }
 
         public void Configure(IApplicationBuilder app, IWebHostEnvironment env)

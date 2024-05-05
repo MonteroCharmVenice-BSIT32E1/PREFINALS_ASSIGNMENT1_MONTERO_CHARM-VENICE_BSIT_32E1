@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\PREFINALS_AUTH_MONTERO_CHARM-VENICE.props" />
+</Project>

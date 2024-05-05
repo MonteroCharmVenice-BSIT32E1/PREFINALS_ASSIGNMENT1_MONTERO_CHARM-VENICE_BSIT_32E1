@@ -12,15 +12,15 @@ namespace ProtectedApi
         private readonly string[] _thingsAboutOwner = new[]
         {
             "I love cats",
- "I do love painting",
- "I play badmninton",
- "I love watching anime",
- "One Piece is my number 1 favorite anime",
- "I have 10 cats",
- "I do play online games like codm, ml, farlight",
- "I love watching horror movies",
- "I'm 20 y/o",
- "Currently taking BSIT",
+            "I do love painting",
+            "I play badmninton",
+            "I love watching anime",
+            "One Piece is my number 1 favorite anime",
+            "I have 10 cats",
+            "I do play online games like codm, ml, farlight",
+            "I love watching horror movies",
+            "I'm 20 y/o",
+            "Currently taking BSIT",
         };
 
         [HttpGet("about/me")]
